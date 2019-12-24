@@ -1,0 +1,16 @@
+.page_content {
+	padding: 2em;
+}
+.card {
+	margin: 1em auto;
+	width: 100%;
+}
+.card img {
+	height: 180px;
+}
+.card-img-top {
+	/*width: 250px;*/
+}
+.center {
+  margin: 0 auto;
+}

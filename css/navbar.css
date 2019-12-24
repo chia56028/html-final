@@ -1,0 +1,10 @@
+body {
+  padding-top: 54px;
+  background-color: rgb(240, 240, 230);
+}
+
+.transparent_back {
+  /*background-color: #c5e1a5;*/
+  background-color: rgba(143, 185, 95, 0.9);
+  color: #FFFFFF;
+}

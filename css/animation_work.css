@@ -1,0 +1,58 @@
+body {
+	padding-bottom: 40px;
+}
+
+.row {
+	margin: 0;
+}
+
+.page_content {
+	padding: 1em 2em;
+	height: 100%;
+}
+
+#animation_works {
+	/*height: 50%;*/
+}
+
+.info_content {
+	font-size: 18px;
+	/*height: 200px;*/
+}
+
+#animation_imgs {
+	margin: 1em 0;
+}
+
+#illu_1 {
+	height: 200px;
+	margin: auto;
+}
+
+.btn_page {
+	width: 50%;
+}
+
+.btn-success {
+	color: #fff;
+	background-color: #279340;
+	border-color: #279340;
+}
+
+.btn-success:hover {
+	color: #fff;
+	background-color: #36533d;
+	border-color: #36533d;
+}
+
+/*.btn-left {
+	position: absolute;
+	bottom: 54px;
+	left: 32px;
+}
+
+.btn-right {
+	position: absolute;
+	bottom: 54px;
+	right: 32px;
+}*/
